@@ -1,4 +1,4 @@
-<h1 align="center">Consumer API v1</h1>
+<h1 align="center">Consumer Service</h1>
 
 <p align="center">
     <a href="">
@@ -9,7 +9,9 @@
 
 ## Resources
 
-- [Oracle Health Consumer Service](https://docs.healtheintent.com/#identity)
+- [Oracle : Consumer API v1](https://docs.healtheintent.com/api/v1/consumer/)
+- [IBM : IT Topics](https://www.ibm.com/topics)
+- [Microsoft : Microsoft Learn](https://learn.microsoft.com/en-us/)
 
 ## License
 
