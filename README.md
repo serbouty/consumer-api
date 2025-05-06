@@ -4,14 +4,22 @@
     <a href="./LICENSE.md">
         <img src="https://img.shields.io/badge/license-mit-white?style=flat&logo=github"  alt="License MIT" /></a>
     <a href="">
-        <img src="https://img.shields.io/badge/status-scheduled-lightgreen?style=flat&logo=github"  alt="Project Status Scheduled" /></a>
+        <img src="https://img.shields.io/badge/status-backlog-lightgray?style=flat&logo=github"  alt="Status Backlog" /></a>
 </p>
 
 ## Support
 
+- [Oracle : Consumer API v1](https://docs.healtheintent.com/api/v1/consumer/)
 - [IBM : IT Topics](https://www.ibm.com/topics)
 - [Microsoft : Microsoft Learn](https://learn.microsoft.com/en-us/)
-- [Oracle : Consumer API v1](https://docs.healtheintent.com/api/v1/consumer/)
+
+## Roadmap
+
+- [ ] Retrieve a List of Consumers
+- [ ] Create a Consumer
+- [ ] Retrieve a Single Consumer
+- [ ] Update a Consumer
+- [ ] Remove a Consumer
 
 ## License
 
